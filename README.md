@@ -58,8 +58,6 @@ Here’s a screenshot of the application:
 ![Screenshot_2](https://github.com/SushilkumarBarai/TalkyDocs/blob/main/images/Screenshot_3.png)
 
 
---
-
 
 ## 📦 Setup Instructions
 
