@@ -29,12 +29,12 @@ TalkyDocs is a Streamlit-based Question & Answer system that enables users to up
 
 ## 🛠️ Tech Stack
 
-- **Streamlit** – UI framework
-- **ChromaDB** – Persistent vector store
-- **Ollama** – Local LLM server for inference & embedding
-- **LangChain** – Document loading and splitting
-- **Sentence Transformers** – Cross-encoder for reranking
-- **PyMuPDF** – PDF parsing and reading
+- **Streamlit** – UI framework.
+- **ChromaDB** – Persistent vector store.
+- **Ollama** – Local LLM server for inference & embedding.
+- **LangChain** – Document loading and splitting.
+- **Sentence Transformers** – Cross-encoder for reranking.
+- **PyMuPDF** – PDF parsing and reading.
 
 ---
 
